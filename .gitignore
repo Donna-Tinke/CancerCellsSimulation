@@ -1,0 +1,13 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore system files
+.DS_Store
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
+
+# Ignore backup/temporary files
+*~
+
